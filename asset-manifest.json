@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Classicoo/static/css/main.140c18c2.css",
+    "main.js": "/Classicoo/static/js/main.3fe309f9.js",
+    "static/js/453.ff16178b.chunk.js": "/Classicoo/static/js/453.ff16178b.chunk.js",
+    "static/media/logo.svg": "/Classicoo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Classicoo/index.html",
+    "main.140c18c2.css.map": "/Classicoo/static/css/main.140c18c2.css.map",
+    "main.3fe309f9.js.map": "/Classicoo/static/js/main.3fe309f9.js.map",
+    "453.ff16178b.chunk.js.map": "/Classicoo/static/js/453.ff16178b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.140c18c2.css",
+    "static/js/main.3fe309f9.js"
+  ]
+}
